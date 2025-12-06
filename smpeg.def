@@ -1,0 +1,27 @@
+EXPORTS
+    SMPEG_new
+    SMPEG_delete
+    SMPEG_play
+    SMPEG_stop
+    SMPEG_rewind
+    SMPEG_seek
+    SMPEG_setvolume
+    SMPEG_enableaudio
+    SMPEG_enablevideo
+    SMPEG_status
+    SMPEG_getinfo
+    SMPEG_actualSpec
+    SMPEG_wantedSpec
+    SMPEG_playAudio
+    SMPEG_playAudioSDL
+    SMPEG_loop
+    SMPEG_scaleXY
+    SMPEG_scale
+    SMPEG_move
+    SMPEG_setdisplay
+    SMPEG_setdisplayregion
+    SMPEG_renderFrame
+    SMPEG_renderFinal
+    SMPEG_filter
+    SMPEG_error
+    SMPEG_frameRate
