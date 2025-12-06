@@ -1,7 +1,7 @@
-Tux Racer smpeg.dll Wrapper Patch Source
+Tux Racer Commercial 1.1 Win11 Patch
 ====================================
 
-This directory contains the source code for the custom smpeg.dll wrapper that fixes crashes related to music playback in Tux Racer 1.1 on modern Windows systems.
+Source code for a custom smpeg.dll wrapper that fixes crashes related to music playback in Tux Racer 1.1 on modern Windows systems.
 
 Files:
 - smpeg_wrapper.c: The main C source code for the wrapper.
