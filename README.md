@@ -13,7 +13,7 @@ Files:
 How to Build:
 1. Ensure MinGW (gcc) is in your PATH.
 2. Run `build.bat`.
-3. The resulting `smpeg.dll` will be created in this directory.
+3. The resulting `smpeg.dll` will be created in the source directory.
 
 Does not work on Linux systems and was not tested on versions lower or higher than 1.1.
 
